@@ -1,1 +1,1 @@
-2-print_alphabet.c
+readme will be updated later
