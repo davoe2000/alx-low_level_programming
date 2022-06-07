@@ -23,3 +23,5 @@
 9. Write a program that prints all possible combinations of single-digit numbers.
 
 10.  Inventing is a combination of brains and materials. The more brains you use, the less material you need
+
+11.  Write a program that prints all possible different combinations of three digits.
