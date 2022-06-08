@@ -19,3 +19,5 @@
 6.  Write a function that prints the sign of a number.
 
 7.  Write a function that computes the absolute value of an integer.
+
+8.  Write a function that prints the last digit of a number.
