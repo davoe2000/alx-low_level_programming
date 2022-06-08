@@ -13,3 +13,5 @@
 2.  Write a function that prints 10 times the alphabet, in lowercase, followed by a new line.
 
 4.  Write a function that checks for lowercase character.
+
+5.  Write a function that checks for alphabetic character
