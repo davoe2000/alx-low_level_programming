@@ -1,0 +1,8 @@
+#                     0x05. C - Pointers, arrays and strings
+
+
+			Author
+
+			davoe2000
+
+1.  Write a function that takes a pointer to an int as parameter and updates the value it points to to 98.
