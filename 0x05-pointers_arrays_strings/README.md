@@ -29,3 +29,5 @@ Write a function that copies the string pointed to by src, including the termina
 Return value: the pointer to dest
 
 11.  Write a function that convert a string to an integer.
+
+12.  Create a program that generates random valid passwords for the program 101-crackme.
