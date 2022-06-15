@@ -7,4 +7,7 @@
 
 		 davoe2000
 
-	0.  Write a function that concatenates two strings.
+
+0.  Write a function that concatenates two strings.
+
+1.  Write a function that concatenates two strings.
