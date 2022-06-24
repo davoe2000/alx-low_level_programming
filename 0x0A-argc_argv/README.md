@@ -12,3 +12,5 @@
 2.  Write a program that prints all arguments it receives.
 
 4.  Write a program that multiplies two numbers.
+
+5.  Write a program that adds positive numbers.
