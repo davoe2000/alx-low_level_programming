@@ -14,3 +14,5 @@
 4.  Write a program that multiplies two numbers.
 
 5.  Write a program that adds positive numbers.
+
+6.  Write a program that prints the minimum number of coins to make change for an amount of money.
