@@ -10,3 +10,5 @@
 1.  Write a function that returns a pointer to a newly allocated space in memory, which contains a copy of the string given as a parameter.
 
 2.  He who is not courageous enough to take risks will accomplish nothing in life
+
+3.  Write a function that returns a pointer to a 2 dimensional array of integers.
