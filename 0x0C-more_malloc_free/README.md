@@ -12,3 +12,5 @@
 2.  Write a function that allocates memory for an array, using malloc.
 
 3.  Write a function that creates an array of integers.
+
+4.  Write a function that reallocates a memory block using malloc and free
