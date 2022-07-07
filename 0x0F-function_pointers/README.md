@@ -8,3 +8,5 @@
 2.  Write a function that searches for an integer.
 
 3.  Write a program that performs simple operations.
+
+4.  Write a program that prints the opcodes of its own main function.
